@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/PROJECTS/CLion_Projects/Assignment2 - BST_NonRecursivePreorder/main.c
+stdio.h
+-
+stdlib.h
+-
+
